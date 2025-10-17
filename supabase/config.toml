@@ -1,0 +1,4 @@
+project_id = "mgtdekqympjkrterackt"
+
+[functions.detect-disease]
+verify_jwt = true
